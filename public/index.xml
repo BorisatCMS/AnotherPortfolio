@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
     <channel>
-      <title>Quartz 5</title>
-      <link>https://boris-at-cms.nl</link>
-      <description>Last 10 notes on Quartz 5</description>
+      <title>Boris at CMS</title>
+      <link>https://borisatcms.github.io</link>
+      <description>Last 10 notes on Boris at CMS</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
     <title>Tag Index</title>
-    <link>https://boris-at-cms.nl/tags/</link>
-    <guid>https://boris-at-cms.nl/tags/</guid>
+    <link>https://borisatcms.github.io/tags/</link>
+    <guid>https://borisatcms.github.io/tags/</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Wed, 22 Jul 2026 11:42:39 GMT</pubDate>
+    <pubDate>Wed, 22 Jul 2026 12:27:14 GMT</pubDate>
   </item><item>
     <title>Welcome to Quartz</title>
-    <link>https://boris-at-cms.nl/</link>
-    <guid>https://boris-at-cms.nl/</guid>
+    <link>https://borisatcms.github.io/</link>
+    <guid>https://borisatcms.github.io/</guid>
     <description><![CDATA[ This is a blank Quartz installation. See the documentation for how to get started. ]]></description>
     <pubDate>Wed, 22 Jul 2026 10:08:00 GMT</pubDate>
   </item>
